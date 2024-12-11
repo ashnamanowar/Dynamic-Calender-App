@@ -3,7 +3,7 @@ import { Button } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import EventModal from './EventModal';
 
-// Function to generate a calendar
+// Function to generate a calendar.
 const generateCalendar = (month, year) => {
   const daysInMonth = new Date(year, month + 1, 0).getDate();
   const firstDayOfMonth = new Date(year, month, 1).getDay();
