@@ -43,3 +43,7 @@ Adding an Event: Click on a date to open the event modal.Enter event details and
 Editing/Deleting Events: Click on an existing event to edit or delete it.
 
 Viewing Events: Hover over event markers to preview the event details.
+
+
+VERCEL LINK
+https://dynamic-calender-app-sage.vercel.app/
