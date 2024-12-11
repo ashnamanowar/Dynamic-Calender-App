@@ -24,7 +24,7 @@ A code editor (e.g., Visual Studio Code).
 
 Steps
 Clone the repository:
-git clone https://github.com/ashnamanowar/Dynamic-Calendar-App.git
+git clone https://github.com/ashnamanowar/Dynamic-Calender-App.git
 cd Dynamic-Calendar-App
 
 Install dependencies:
